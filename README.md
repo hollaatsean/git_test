@@ -1,0 +1,1 @@
+This is sean's first GIT project 
